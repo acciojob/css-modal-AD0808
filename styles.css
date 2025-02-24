@@ -16,7 +16,7 @@ body {
     cursor: pointer;
     margin-top: 20px;
     border-radius: 5px;
-	display:block;
+	display:flex;
 }
 
 #openModal:hover {
@@ -47,7 +47,7 @@ body {
 
 /* Modal Header */
 .modal-header {
-    display: block;
+    display: flex;
     justify-content: space-between;
     align-items: center;
     border-bottom: 1px solid #ccc;
